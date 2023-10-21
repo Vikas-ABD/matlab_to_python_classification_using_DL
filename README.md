@@ -13,7 +13,7 @@ This project serves as a bridge between MATLAB and Python, focusing on deep lear
 2. Install the required packages for deep learning in MATLAB and Python.
 3. Set up a virtual environment for the Python Flask application.
 
-## Usage
+## work steps
 1. Train the CNN model in MATLAB using a comprehensive fruit quality dataset. Ensure the dataset is diverse and representative of various fruit quality characteristics.
 2. Convert the trained MATLAB model into a TensorFlow model for integration into the Python environment. Validate the model's performance and accuracy.
 3. Develop a Flask web application using HTML and CSS to provide a user-friendly interface for fruit quality classification.
